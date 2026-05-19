@@ -41,6 +41,7 @@ AI agents in production can silently drain budgets through retry loops, model es
 
 ## Observability & Monitoring
 
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)** — Local-first TUI and CLI for AI coding-agent cost, token, latency, and failure regression reports
 - **[LangSmith](https://smith.langchain.com/)** — LangChain's observability platform with cost tracking
 - **[Langfuse](https://langfuse.com/)** — Open-source LLM observability with per-trace cost attribution
 - **[Helicone](https://helicone.ai/)** — LLM proxy with cost analytics and caching
